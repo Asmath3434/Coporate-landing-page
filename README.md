@@ -58,4 +58,4 @@ The webpage has a "get in touch" and "subscribe" option. The "get in touch" opti
 If you find any issues with the website or have suggestions for improvement, please feel free to submit a pull request or open an issue in this repository. Your contributions are welcome!
 
 # LIVE LINK
-https://sujith277.github.io/Corporate-Landing-Page/
+https://asmath3434.github.io/Coporate-landing-page/
